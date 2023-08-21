@@ -1,0 +1,19 @@
+.divcon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.divcon > div { 
+    margin: 30px;
+    width: 20%;
+}
+.divcon > p { 
+    margin: 30px;
+    width: 70%;
+}
+
+.divcon img {
+    border-radius: 50%;
+    width : 300px ; 
+}
